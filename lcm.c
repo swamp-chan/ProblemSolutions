@@ -1,3 +1,6 @@
+//problem 5 of project euler
+//lcm of numbers 1 - 20
+
 #include <stdio.h>
 #include <conio.h>
 
